@@ -1,254 +1,263 @@
 id,en,vi
-1,friendly,thân thiện
-2,careful,cẩn thận
-3,talkative,lắm lời
-4,proactive,Chủ động
-5,easy-going,dễ dãi
-6,generous,hào phóng
-7,hard-working,chăm chỉ
-8,shy,ngại ngùng
-9,neat,gọn gàng
-10,talented,tài năng
-11,dynamic,năng động
-12,strict,nghiêm khắc
-13,creative,sáng tạo
-14,stubborn,bướng bỉnh
-15,hot-tempered,nóng tính
-16,polite,lịch sự
-17,serious,nghiêm túc
-18,humorous,hài hước
-19,cheerful,vui vẻ
-20,bossy,hách dịch
-21,selfish,ích kỷ
-22,intelligent,thông minh
-23,open-minded,cởi mở
-24,sociable,hòa đồng
-25,short,thấp
-26,tall,cao
-27,medium-height,cao trung bình
-28,fat,mập
-29,chubby,mủn mỉm
-30,fit,thân hình vừa vặn
-31,slim,thân hình mảnh mai
-32,thin,gầy
-33,skinny,rất gầy
-34,good-looking,ngoại hình ưa nhìn
-35,elegant,tao nhã
-36,gentle,lịch lãm
-37,clumsy,hậu đậu
-38,fashionable,hợp thời trang
-39,attractive,hấp dẫn
-40,adorable,đáng yêu
-41,handsome,đẹp trai
-42,young,trẻ
-43,old,già
-44,middle aged,Trung niên
-45,well-built,thân hình vạm vỡ
-46,sexy,quyến rũ
-47,oval face,mặt trái xoan
-48,round face,khuôn mặt tròn
-49,square face,khuôn mặt vuông
-50,wavy hair,Tóc lượn sóng
-51,curly hair,tóc xoăn
-52,straight hair,tóc thẳng
-53,old-fashioned,không gian cổ kính
-54,reasonable,giá cả hợp lý
-55,open space,không gian mở
-56,crowded,đông đúc
-57,soothing,không gian êm dịu
-58,cozy,không gian ấm áp
-59,traditional food,món ăn truyền thống
-60,good service,dịch vụ tốt
-61,sandwich,bánh mì sandwich
-62,orange juice,nước cam
-63,vegetarian,người ăn chay
-64,omelet,trứng ốp la
-65,smoothie,sinh tố
-66,cheese,phô mai
-67,salad,xa lát
-68,soup,canh súp
-69,spaghetti,mì Ý
-70,fresh food,thức ăn sạch
-71,enjoy your meal,chúc ngon miệng
-72,on the diet,ăn kiêng
-73,fantastic,tuyệt vời
-74,street food,thức ăn đường phố
-75,junk food,đồ ăn vặt
-76,cash,tiền mặt
-77,credit card,thẻ tín dụng
-78,clothing store,cửa hàng quần áo
-79,grocery store,cửa hàng tạp hóa
-80,electronics store,cửa hàng điện tử
-81,food court,khu ăn uống
-82,movie theater,rạp chiếu phim
-83,bags and accessories store,Cửa hàng túi và phụ kiện
-84,frozen food,thức ăn đông lạnh
-85,pet food,Thức ăn cho thú cưng
-86,necklace,vòng cổ
-87,bracelet,vòng đeo tay
-88,sneakers,giày thể thao
-89,sweater,áo len
-90,skirt,váy ngắn
-91,t-shirt,Áo thun
-92,dress,đầm
-93,high heels,giày cao gót
-94,cap,mũ lưỡi trai
-95,scarf,khăn quàng cổ
-96,sunglass,kính râm
-97,high-priced,Giá cao
-98,fridge,tủ lạnh
-99,tablet,máy tính bảng
-100,bakery,cửa hàng bánh mì
-101,good quality,chất lượng tốt
-102,rooftop,sân thượng
-103,bridge,cây cầu
-104,stay up late,thức khuya
-105,sleep in,ngủ nướng
-106,surf the internet,lướt Internet
-107,do exercise,tập thể dục
-108,healthy food,Thức ăn lành mạnh
-109,shop online,Mua sắm trực tuyến
-110,take pictures,chụp ảnh
-111,smoke,hút thuốc
-112,swear,chửi thề
-113,skip meals,bỏ bữa
-114,drink alcohol,uống rượu
-115,gossip,ngồi lê đôi mách
-116,bite nails,cắn móng tay
-117,pick nose,ngoáy mũi
-118,tell lies,nói dối
-119,play sports,chơi thể thao
-120,hand out with friends,ra ngoài với bạn bè
-121,skip classes,bỏ học
-122,read books,đọc sách
-123,overspend,chi tiêu quá mức
-124,be messy,bừa bộn
-125,gamble,Đánh bạc
-126,climb,leo trèo
-127,fall down,ngã
-128,awful,tồi tệ
-129,angry,tức giận
-130,library,thư viện
-131,cafeteria,căn tin
-132,meeting hall,hội trường
-133,classroom,lớp học
-134,sports center,Trung tâm thể thao
-135,dormitory,ký túc xá
-136,schedule,lịch trình
-137,tuition fees,học phí
-138,campus,khuôn viên đại học
-139,social life,Đời sống xã hội
-140,do project,làm dự án
-141,attend class,tham dự lớp học
-142,take part in club,tham gia câu lạc bộ
-143,do a part-time job,làm việc bán thời gian
-144,do survey,làm khảo sát
-145,do volunteer,Làm tình nguyện
-146,develop the skills,Phát triển các kỹ năng
-147,confidence,sự tự tin
-148,take experience,Có kinh nghiệm
-149,reunion party,tiệc đoàn tụ
-150,opportunity,cơ hội
-151,long-lasting friendship,tình bạn lâu dài
-152,decided,quyết định
-153,aspiration,Khát vọng
-154,scope,phạm vi
-155,complete,hoàn thành
-156,funding,kinh phí
-157,accept,chấp nhận
-158,avoid,phòng tránh
-159,bumpy,gập ghềnh
-160,scary,đáng sợ
-161,terrible,kinh khủng
-162,embarrassed,lúng túng
-163,surprised,ngạc nhiên
-164,rainy,mưa
-165,cloudy,có mây
-166,windy,có gió
-167,sunny,nắng
-168,flight,chuyến bay
-169,childhood,thời thơ ấu
-170,hide and seek,trốn tìm
-171,experience,kinh nghiệm
-172,rice field,ruộng lúa
-173,rural area,khu vực nông thôn
-174,mature,trưởng thành
-175,that sounds great!,nghe có vẻ tuyệt vời!
-176,vividly,một cách sinh động
-177,look back,nhìn lại
-178,pack,đóng gói
-179,towel,cái khăn lau
-180,juice,nước ép
-181,fruit,trái cây
-182,sunscreen,kem chống nắng
-183,air mattress,nệm hơi
-184,weather forecast,dự báo thời tiết
-185,key,chìa khóa
-186,book,đặt (vé)
-187,swimming pool,Hồ bơi
-188,smoking area,khu vực hút thuốc
-189,laundry service,dịch vụ giặt ủi
-190,suitcase,va li
-191,medical supplies,vật tư y tế
-192,hygiene items,đồ dùng vệ sinh cá nhân
-193,gift shop,cửa hàng quà tặng
-194,car park,bãi đỗ xe
-195,motorbike rental,cho thuê xe máy
-196,electronic products,sản phẩm điện tử
-197,graduate,tốt nghiệp
-198,get extra degree,Nhận thêm bằng cấp
-199,promoted,thăng chức
-200,increase income,tăng thu nhập
-201,gross salary,Tổng lương
-202,travel around the country,đi du lịch khắp đất nước
-203,self-defence,tự vệ
-204,life partner,bạn đời
-205,abroad,ở nước ngoài
-206,flexible,linh hoạt
-207,adapt,thích nghi
-208,deal with,đối phó với
-209,be in charge of,chịu trách nhiệm
-210,adjust,điều chỉnh
-211,social circle,chu trình xã hội
-212,seek out,tìm kiếm
-213,curriculum vitae,Sơ yếu lý lịch (CV)
-214,apply for a job,nộp đơn xin việc làm
-215,be under pressure,chịu áp lực
-216,career goal,mục tiêu nghề nghiệp
-217,weakness,điểm yếu
-218,strength,điểm mạnh
-219,contribute,đóng góp
-220,expected salary,mức lương mong đợi
-221,responsibility,trách nhiệm
-222,detail,chi tiết
-223,retire,về hưu
-224,insight,cái nhìn thấu suốt
-225,peripheral,ngoại vi
-226,contrast,sự tương phản
-227,specific,cụ thể
-228,describe,mô tả
-229,provide,cung cấp
-230,observe,quan sát
-231,reward,phần thưởng
-232,benefit,lợi ích
-233,competency,năng lực
-234,consultants,Tư vấn
-235,hire,Thuê
-236,organize,tổ chức
-237,feature,tính năng
-238,chili,ớt
-239,flour,bột mì
-240,pepper,hạt tiêu
-241,soy sauce,nước tương
-242,fish sauce,nước mắm
-243,parsley,ngò tây
-244,broth mix,Hạt nêm
-245,garlic,tỏi
-246,peel,bóc vỏ
-247,stir-fry,xào
-248,pour,đổ (nước)
-249,bake,nướng (trong lò)
-250,boil,đun sôi
-251,fry,chiên rán
-252,steam,hấp
-253,grill,nướng (than)
+1,talkative,lắm lời
+2,proactive,Chủ động
+3,easy-going,dễ dãi
+4,generous,hào phóng
+5,hard-working,chăm chỉ
+6,shy,ngại ngùng
+7,neat,gọn gàng
+8,talented,tài năng
+9,dynamic,năng động
+10,strict,nghiêm khắc
+11,creative,sáng tạo
+12,stubborn,bướng bỉnh
+13,hot-tempered,nóng tính
+14,polite,lịch sự
+15,serious,nghiêm túc
+16,humorous,hài hước
+17,cheerful,vui vẻ
+18,bossy,hách dịch
+19,selfish,ích kỷ
+20,intelligent,thông minh
+21,open-minded,cởi mở
+22,sociable,hòa đồng
+23,medium-height,cao trung bình
+24,fat,mập
+25,chubby,mủn mỉm
+26,fit,thân hình vừa vặn
+27,slim,thân hình mảnh mai
+28,thin,gầy
+29,skinny,rất gầy
+30,good-looking,ngoại hình ưa nhìn
+31,elegant,tao nhã
+32,gentle,lịch lãm
+33,clumsy,hậu đậu
+34,fashionable,hợp thời trang
+35,attractive,hấp dẫn
+36,adorable,đáng yêu
+37,middle aged,Trung niên
+38,well-built,thân hình vạm vỡ
+39,sexy,quyến rũ
+40,oval face,mặt trái xoan
+41,round face,khuôn mặt tròn
+42,square face,khuôn mặt vuông
+43,wavy hair,Tóc lượn sóng
+44,curly hair,tóc xoăn
+45,straight hair,tóc thẳng
+46,old-fashioned,không gian cổ kính
+47,reasonable,giá cả hợp lý
+48,open space,không gian mở
+49,crowded,đông đúc
+50,soothing,không gian êm dịu
+51,cozy,không gian ấm áp
+52,traditional food,món ăn truyền thống
+53,good service,dịch vụ tốt
+54,orange juice,nước cam
+55,vegetarian,người ăn chay
+56,omelet,trứng ốp la
+57,smoothie,sinh tố
+58,cheese,phô mai
+59,spaghetti,mì Ý
+60,fresh food,thức ăn sạch
+61,enjoy your meal,chúc ngon miệng
+62,on the diet,ăn kiêng
+63,fantastic,tuyệt vời
+64,street food,thức ăn đường phố
+65,junk food,đồ ăn vặt
+66,cash,tiền mặt
+67,credit card,thẻ tín dụng
+68,clothing store,cửa hàng quần áo
+69,grocery store,cửa hàng tạp hóa
+70,electronics store,cửa hàng điện tử
+71,food court,khu ăn uống
+72,movie theater,rạp chiếu phim
+73,bags and accessories store,Cửa hàng túi và phụ kiện
+74,frozen food,thức ăn đông lạnh
+75,pet food,Thức ăn cho thú cưng
+76,necklace,vòng cổ
+77,bracelet,vòng đeo tay
+78,sneakers,giày thể thao
+79,sweater,áo len
+80,skirt,váy ngắn
+81,t-shirt,Áo thun
+82,dress,đầm
+83,high heels,giày cao gót
+84,cap,mũ lưỡi trai
+85,scarf,khăn quàng cổ
+86,sunglass,kính râm
+87,high-priced,Giá cao
+88,fridge,tủ lạnh
+89,tablet,máy tính bảng
+90,bakery,cửa hàng bánh mì
+91,good quality,chất lượng tốt
+92,rooftop,sân thượng
+93,bridge,cây cầu
+94,stay up late,thức khuya
+95,sleep in,ngủ nướng
+96,surf the internet,lướt Internet
+97,do exercise,tập thể dục
+98,healthy food,Thức ăn lành mạnh
+99,shop online,Mua sắm trực tuyến
+100,take pictures,chụp ảnh
+101,smoke,hút thuốc
+102,swear,chửi thề
+103,skip meals,bỏ bữa
+104,drink alcohol,uống rượu
+105,gossip,ngồi lê đôi mách
+106,bite nails,cắn móng tay
+107,pick nose,ngoáy mũi
+108,tell lies,nói dối
+109,play sports,chơi thể thao
+110,hand out with friends,ra ngoài với bạn bè
+111,skip classes,bỏ học
+112,read books,đọc sách
+113,overspend,chi tiêu quá mức
+114,be messy,bừa bộn
+115,gamble,Đánh bạc
+116,climb,leo trèo
+117,fall down,ngã
+118,awful,tồi tệ
+119,angry,tức giận
+120,library,thư viện
+121,cafeteria,căn tin
+122,meeting hall,hội trường
+123,classroom,lớp học
+124,sports center,Trung tâm thể thao
+125,dormitory,ký túc xá
+126,schedule,lịch trình
+127,tuition fees,học phí
+128,campus,khuôn viên đại học
+129,social life,Đời sống xã hội
+130,do project,làm dự án
+131,attend class,tham dự lớp học
+132,take part in club,tham gia câu lạc bộ
+133,do a part-time job,làm việc bán thời gian
+134,do survey,làm khảo sát
+135,do volunteer,Làm tình nguyện
+136,develop the skills,Phát triển các kỹ năng
+137,confidence,sự tự tin
+138,take experience,Có kinh nghiệm
+139,reunion party,tiệc đoàn tụ
+140,opportunity,cơ hội
+141,long-lasting friendship,tình bạn lâu dài
+142,decided,quyết định
+143,aspiration,Khát vọng
+144,scope,phạm vi
+145,complete,hoàn thành
+146,funding,kinh phí
+147,accept,chấp nhận
+148,avoid,phòng tránh
+149,bumpy,gập ghềnh
+150,scary,đáng sợ
+151,terrible,kinh khủng
+152,embarrassed,lúng túng
+153,surprised,ngạc nhiên
+154,rainy,mưa
+155,cloudy,có mây
+156,windy,có gió
+157,sunny,nắng
+158,flight,chuyến bay
+159,childhood,thời thơ ấu
+160,hide and seek,trốn tìm
+161,experience,kinh nghiệm
+162,rice field,ruộng lúa
+163,rural area,khu vực nông thôn
+164,mature,trưởng thành
+165,that sounds great!,nghe có vẻ tuyệt vời!
+166,vividly,một cách sinh động
+167,look back,nhìn lại
+168,pack,đóng gói
+169,towel,cái khăn lau
+170,juice,nước ép
+171,sunscreen,kem chống nắng
+172,air mattress,nệm hơi
+173,weather forecast,dự báo thời tiết
+174,key,chìa khóa
+175,book,đặt (vé)
+176,swimming pool,Hồ bơi
+177,smoking area,khu vực hút thuốc
+178,laundry service,dịch vụ giặt ủi
+179,suitcase,va li
+180,medical supplies,vật tư y tế
+181,hygiene items,đồ dùng vệ sinh cá nhân
+182,gift shop,cửa hàng quà tặng
+183,car park,bãi đỗ xe
+184,motorbike rental,cho thuê xe máy
+185,electronic products,sản phẩm điện tử
+186,graduate,tốt nghiệp
+187,get extra degree,Nhận thêm bằng cấp
+188,promoted,được thăng chức
+189,increase income,tăng thu nhập
+190,gross salary,Tổng lương
+191,travel around the country,đi du lịch khắp đất nước
+192,self-defence,tự vệ
+193,life partner,bạn đời
+194,abroad,ở nước ngoài
+195,flexible,linh hoạt
+196,adapt,thích nghi
+197,deal with,đối phó với
+198,be in charge of,chịu trách nhiệm
+199,adjust,điều chỉnh
+200,social circle,chu trình xã hội
+201,seek out,tìm kiếm
+202,curriculum vitae,Sơ yếu lý lịch (CV)
+203,apply for a job,nộp đơn xin việc làm
+204,be under pressure,chịu áp lực
+205,career goal,mục tiêu nghề nghiệp
+206,weakness,điểm yếu
+207,strength,điểm mạnh
+208,contribute,đóng góp
+209,expected salary,mức lương mong đợi
+210,responsibility,trách nhiệm
+211,detail,chi tiết
+212,retire,về hưu
+213,insight,cái nhìn thấu suốt
+214,peripheral,ngoại vi
+215,contrast,sự tương phản
+216,specific,cụ thể
+217,describe,mô tả
+218,provide,cung cấp
+219,observe,quan sát
+220,reward,phần thưởng
+221,benefit,lợi ích
+222,competency,năng lực
+223,consultants,chuyên gia tư vấn
+224,hire,Thuê
+225,organize,tổ chức
+226,feature,tính năng
+227,chili,ớt
+228,flour,bột mì
+229,pepper,hạt tiêu
+230,soy sauce,nước tương
+231,fish sauce,nước mắm
+232,parsley,ngò tây
+233,broth mix,Hạt nêm
+234,garlic,tỏi
+235,peel,bóc vỏ
+236,stir-fry,xào
+237,pour,đổ (nước)
+238,bake,nướng (trong lò)
+239,boil,đun sôi
+240,fry,chiên rán
+241,steam,hấp
+242,grill,nướng (than)
+243,accountant,kế toán viên
+244,engineer,kỹ sư
+245,factory worker,công nhân nhà máy
+246,hairdresser,thợ cắt tóc (nữ)
+247,barber,thợ cắt tóc (nam)
+248,journalist,nhà báo
+249,lawyer,luật sư
+250,mechanic,thợ cơ khí
+251,soldier,lính quân đội
+252,pilot,phi công
+253,outdoors,ngoài trời
+254,indoors,Trong nhà
+255,work individually,làm việc một mình
+256,mental work,công việc trí óc
+257,physical work,công việc tay chân
+258,workaholic,tham công tiếc việc
+259,workplace,nơi làm việc
+260,practical skill,Kỹ năng thực hành
+261,colleague,đồng nghiệp
+262,high concentration,tập trung cao độ
